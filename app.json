@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "randomFood",
-    "slug": "randomFood",
+    "name": "Foods",
+    "slug": "Foods",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
